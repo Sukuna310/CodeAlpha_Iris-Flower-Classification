@@ -91,12 +91,4 @@ Or run the code sections sequentially to:
 4. Evaluate performance
 5. Tune hyperparameters
 
-## 📚 References
-
-- Fisher, R.A. "The use of multiple measurements in taxonomic problems" (1936)
-- [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
-- [scikit-learn Iris Dataset Documentation](https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-dataset)
-
----
-
 *Built as part of CodeAlpha Data Science Tasks*
