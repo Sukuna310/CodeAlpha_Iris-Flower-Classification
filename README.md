@@ -91,4 +91,3 @@ Or run the code sections sequentially to:
 4. Evaluate performance
 5. Tune hyperparameters
 
-*Built as part of CodeAlpha Data Science Tasks*
